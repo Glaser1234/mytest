@@ -1,0 +1,3 @@
+/home/robot/文档/mytest/build/CMakeFiles/hello.dir
+/home/robot/文档/mytest/build/CMakeFiles/edit_cache.dir
+/home/robot/文档/mytest/build/CMakeFiles/rebuild_cache.dir
